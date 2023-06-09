@@ -40,14 +40,14 @@
         ],
    "Mad Cofee": [
 {
- "foto": "/images/coffee-2714970_640.jpg",
+ "foto": "images/coffee-2714970_640.jpg",
   "nama": "Kopi Flores",
   "size": "150 Gram",
   "harga": "150.000",
   "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
   },
 {
- "foto": "/images/kopi flores.jpg",
+ "foto": "images/kopi flores.jpg",
   "nama": "Kopi Flores",
   "size": "1 kg",
   "harga": "150.000 /kg",
